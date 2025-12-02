@@ -7,6 +7,8 @@ Whether you're traveling solo, enjoying time with a partner, or retreating with 
 
 About This Project
 
-Zen Waves Holidays is a fictional brand created for educational purposes as part of the Career in Coding course with IT Online Learning. I aimed to create a relaxing and tranquil feel throughout the newsletter, using calming visuals and soothing content to reflect the peaceful atmosphere of the retreat. 
+Zen Waves Holidays is a fictional brand created for educational purposes as part of the Career in Coding course with IT Online Learning. 
+
+I aimed to create a relaxing and tranquil feel throughout the newsletter, using calming visuals and soothing content to reflect the peaceful atmosphere of the retreat. 
 
 The goal was to design and build a fully responsive email newsletter, applying best practices in layout, accessibility, and mobile-friendly design.
