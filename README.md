@@ -5,7 +5,7 @@ We believe that true relaxation is essential to overall well-being. From gentle 
 
 Whether you're traveling solo, enjoying time with a partner, or retreating with a group, each experience can be shaped to fit your needs. Immerse yourself in nature, explore customized wellness programs, and take the opportunity to focus on your personal balance. At Zen Waves, everything is created to help you unplug, unwind, and rediscover your inner calm.
 
-About This Project
+# About This Project
 
 Zen Waves Holidays is a fictional brand created for educational purposes as part of the Career in Coding course with IT Online Learning. 
 
